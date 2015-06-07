@@ -1,4 +1,4 @@
-#2 Chilli
+\#2 Chilli
 =========
 
 Serves about 4 people. It takes about 30 mins to prep, then about 8 hours in the slow cooker.
@@ -29,7 +29,7 @@ Ingredients
 * 300g ox liver
 * 300g beef mince
 
-* Ilkley Brewery "The Mayan" chocolate chipotle stout
+* Ilkley Brewery "[The Mayan](http://www.ilkleybrewery.co.uk/our-beers/item/the-mayan-bottle)" chocolate chipotle stout
 
 Requirements
 ------------
@@ -79,5 +79,7 @@ Cooking
 -------
 
 Set the slow cooker on low and leave for 8 hours.
+
+- - -
 
 Now once you've done the washing up (I'd wash the knife and board you used for the liver at the very least) you're free to go out galavanting and search for a good IPA to go with the chilli :)
