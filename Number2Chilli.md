@@ -82,4 +82,4 @@ Set the slow cooker on low and leave for 8 hours.
 
 - - -
 
-Now once you've done the washing up (I'd wash the knife and board you used for the liver at the very least) you're free to go out galavanting and search for a good IPA to go with the chilli :)
+Now once you've done the washing up (I'd wash the knife and board you used for the liver at the very least) you're free to go out and search for a good IPA to go with the chilli :)
